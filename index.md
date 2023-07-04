@@ -35,4 +35,9 @@ This is not the only software that can create stareo images; you may also have a
   <li><a href="{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
 
+### pages
+
 {{sorted_pages}}
+
+
+
