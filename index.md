@@ -30,7 +30,7 @@ This is not the only software that can create stareo images; you may also have a
 
 ### TOC
 
-{% assign sorted_pages = site.pages | where_exp:"item", "item.title != nil" | sort:"name" %}
+{% assign sorted_pages = site.pages | where_exp:"item", "item.title != nil" | where_exp:"item", "item.name.match('^\\d\\d_')" | sort:"name" %}
 {% for node in sorted_pages %}
   <li><a href="{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
