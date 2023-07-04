@@ -26,22 +26,26 @@ from some source other than the NASA site, e.g. your hard disk, it is also possi
 
 This software also includes image effects like Bayer color decoding, resizing, rotating, color correction, and barrel distortion correction.
 
-This is not the only software that can create stareo images; you may also have a look at Stereo Photo Maker (aka SPM).
+This is not the only software that can create stareo images; you may also have a look at Stereo Photo Maker.
 
 ### TOC
 
-{% assign sorted_pages = site.pages | where_exp:"item", "item.title != nil" | where_exp:"item", "item.name.match('^\\d\\d_')" | sort:"name" %}
+{% assign sorted_pages = site.pages | where_exp:"item", "item.title != nil" | sort:"name" %}
 {% for node in sorted_pages %}
   <li><a href="{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
 
+| where_exp:"item", "item.name.match '^\\d\\d_' "
+
 ### pages
 
-###{
-###{
+
+
+### {
+### {
 sorted_pages
-###}
-###}
+### }
+### }
 
 
 
