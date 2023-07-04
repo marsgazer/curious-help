@@ -7,7 +7,9 @@ layout: home
 
 # Curious: X3D Viewer
 
-This site contains documentation for the Curious X3D Viewer.
+## This site is under construction !!!!!
+
+This site contains documentation for the Curious X3D Viewer. ([Download](https://github.com/martianch/curieux))
 
 ### What does this software do and why
 
