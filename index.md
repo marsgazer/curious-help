@@ -45,9 +45,7 @@ This is not the only software that can create stareo images; you may also have a
 
 
 ### {
-### {
 sorted_pages
-### }
 ### }
 
 
