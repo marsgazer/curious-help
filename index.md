@@ -32,7 +32,7 @@ This is not the only software that can create stareo images; you may also have a
 
 {% assign sorted_pages = site.pages | where_exp:"item", "item.name contains '_'" | sort:"name" %}
 {% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
+  <li><a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
 
 | where_exp:"item", "item.name.contains '_' "
