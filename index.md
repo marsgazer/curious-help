@@ -40,7 +40,7 @@ This is not the only software that can create stareo images; you may also have a
 ### pages
 
 {% for node in site.pages %}
-  <li><a href="{{node.url}}">{{node.title}}:{{node.name}}</a></li>
+  <li><a href="{{node.url}}">{{site.baseurl}} == {{node.url}} == {{node.title}}:{{node.name}}</a></li>
 {% endfor %}
 
 
