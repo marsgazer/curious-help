@@ -9,13 +9,15 @@ layout: home
 
 ## This site is under construction !!!!!
 
-This site contains documentation for the Curious X3D Viewer. ([Download](https://github.com/martianch/curieux))
+This site contains documentation for the Curious X3D Viewer. ([Project on Github](https://github.com/martianch/curieux);
+[releases to download](https://github.com/martianch/curieux/releases))
 
 ### What does this software do and why
 
-There is a trick that allows you to view RL stereo pairs on the screen, similar to viewing the "Magic Eye" images. See the "Learn X3D" section.
+There is a trick that allows you to **view stereo images on the standard computer screen,** similar to viewing the "Magic Eye" images.
+See the [Learn X3D](00_learn_x3d.html) section. See [freeviewing](https://en.wikipedia.org/wiki/Stereoscopy#Freeviewing) in Wikipedia.
 
-X3D means "RL stereo pair", 3D means "stereo" and X means that it is "crossed", RL rather than LR.
+X3D means "RL stereo pair", 3D means "stereoscopic" and X means that it is "cross-view", RL rather than LR.
 
 The NASA Mars rovers (Curiosity, Perseverance) send stereo photos back to Earth, but the NASA site does not support viewing sereo pairs.
 
@@ -28,6 +30,7 @@ This software also includes image effects like Bayer color decoding, resizing, r
 
 This is not the only software that can create stareo images; you may also have a look at Stereo Photo Maker.
 
+
 ### TOC
 
 {% assign sorted_pages = site.pages | where_exp:"item", "item.name contains '_'" | sort:"name" %}
@@ -35,18 +38,26 @@ This is not the only software that can create stareo images; you may also have a
   <li><a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a></li>
 {% endfor %}
 
-| where_exp:"item", "item.name.contains '_' "
+### Feature list
 
-### pages
+Features:
+- viewing images from the NASA site, from any other site, from the local disk
+- opening images via drag-and-drop or address copy-paste
+- automatic finding of the second half of a stereo pair, filename-based (but sometimes there is no pair)
+- navigation among the raw images on the NASA site
+- assembling big Perseverance 5K*3K images from parts
+- navigation from an image to the related page on the NASA site
+- shows RL (X3D) or LR stereo pairs
+- shifting/rotating images either via controls or via marks that must match
+- improved Bayer pattern color decoding (bicubic, better(!) than the commonly used bilinear one)
+- contrast stretching in RGB or HSV space
+- gamma correction (encoding and decoding)
+- fish-eye effect (barrel distortion) correction
+- distance/size measurement via triangulation
+- conversion of images for the red-blue (red-cyan) glasses into X3D
+- viewing images with LR stereo pairs as X3D
 
-{% for node in site.pages %}
-  <li><a href="{{node.url}}">{{site.baseurl}} == {{node.url}} == {{node.title}}:{{node.name}}</a></li>
-{% endfor %}
 
-
-### {
-sorted_pages
-### }
 
 
 
