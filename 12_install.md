@@ -47,9 +47,11 @@ java -jar x3dview.jar
 ```
 You will see some messages, and then a window will open with two similar but different images.
 
-Video: download and run (no sound)
+Video (no sound): download and run `x3dview` without installing
 
+<!--
 https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef
+-->
 
 <div class="embed-container">
   <iframe
