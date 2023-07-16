@@ -17,7 +17,11 @@ Run `x3dview`.
 
 Drag an image thumbnail from the browser's window, and drop it onto the x3dview window.
 
-***TODO video***
+
+
+
+https://github.com/marsgazer/curious-help/assets/101140007/897ca300-ca1d-43f9-9d98-787f06f0218f
+
 
 
 Note: Drag-and-Drop does not work under Linux with Chrome-based browsers. This is not a `x3dview` bug, it is either Chrome or Java bug.
@@ -34,6 +38,18 @@ Two reasons:
 
 
 ## Copy and Paste
+***TODO video***
+
+## Adjust offsets with marks
+
+
+
+https://github.com/marsgazer/curious-help/assets/101140007/7c7f6c93-1cb8-4afa-a7c0-26e8f3feebcf
+
+## Adjust colors
+
+
+https://github.com/marsgazer/curious-help/assets/101140007/b205f276-83df-4cf5-a23b-f4180db96020
 
 
 
