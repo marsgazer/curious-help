@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="my-navigation">
+
+
+  {% assign sorted_pages = site.pages | where_exp:"item", "item.name contains '_'" | sort:"name" %}
+  {% assign prev = sorted_pages | where_exp:"item", "item.name < page.name" | last %}
+  {% assign next = sorted_pages | reverse | where_exp:"item", "item.name > page.name" | last %}
+
+  <hr/>
+    <table style="border: none" cellspacing="0" width="100%"><tbody><tr style="border: none">
+      <td width="20%" style="border: none">{% if prev %}<a href="{{site.baseurl}}{{prev.url}}">Previous</a>{% endif %}</td>
+      <td align="center" style="border: none"><a href="{{site.baseurl}}/">Table of Contents</a></td>
+      <td width="20%" align="right" style="border: none">{% if next %}<a href="{{site.baseurl}}{{next.url}}">Next</a>{% endif %}</td>
+    </tr></tbody></table>
+
+
+  </div>
+</article>

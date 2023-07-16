@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mars Stereo Image Viewer
+title: x3dview
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for the Curious X3D Viewer, software to view stereo images
@@ -35,9 +35,8 @@ plugins:
 
 header_pages:
   - 00_learn_x3d.md
-  - 02_install.md
+  - 12_install.md
   - 21_basic_usage.md
-  - about.md
 
 
 # Exclude from processing.
