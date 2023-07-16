@@ -51,6 +51,15 @@ Video: download and run (no sound)
 
 https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef
 
+<div class="embed-container">
+  <iframe
+      src="https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
 
 
 ## Run from the source without installation
