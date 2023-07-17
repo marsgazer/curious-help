@@ -1,15 +1,15 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Curious: X3D Viewer
 layout: home
 ---
 
-# Curious: X3D Viewer
 
 
 This site contains documentation for `x3dview`, a.k.a. the Curious X3D Viewer. It is a stereo image viewer.
 It has a number of features to support viewing the NASA images from Mars, but may be used with any other source of images.
+It runs on Windows, Mac OS X and Linux.
 It is free.
 ([Project](https://github.com/martianch/curieux) on Github;
 [releases to download](https://github.com/martianch/curieux/releases))
