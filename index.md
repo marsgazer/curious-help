@@ -7,10 +7,10 @@ layout: home
 
 
 
-This site contains documentation for `x3dview`, a.k.a. the Curious X3D Viewer. It is a stereo image viewer.
+This site contains documentation for the Curious X3D Viewer (`x3dview`). It is a **stereo image viewer.**
 It has a number of features to support viewing the NASA images from Mars, but may be used with any other source of images.
-It runs on Windows, Mac OS X and Linux.
-It is free.
+It runs on **Windows, Mac OS X and Linux.**
+It is **free.**
 ([Project](https://github.com/martianch/curieux) on Github;
 [releases to download](https://github.com/martianch/curieux/releases))
 
