@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use
+title: Use(1)
 #permalink: /about/
 ---
 
