@@ -37,6 +37,7 @@ header_pages:
   - 00_learn_x3d.md
   - 12_install.md
   - 21_basic_usage.md
+  - 22_advanced_usage.md
 
 
 # Exclude from processing.
