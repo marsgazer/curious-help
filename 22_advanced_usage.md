@@ -5,7 +5,7 @@ title: Use(2)
 ---
 
 
-# How Do I Use X3D Viewer?
+# How Do I Use X3D Viewer? (Advanced Usage)
 
 
 ## Image Address Copy and Paste
@@ -15,11 +15,16 @@ title: Use(2)
 If you have an URL of only one image, `x3dview` will try to find the other image, so that you will see a stereo pair.
 The automatic search is file name-based.
 
-copy-paste-single.mp4
+
+https://github.com/marsgazer/curious-help/assets/101140007/992c841d-3958-4e6e-af9d-5a4b391b1437
+
 
 ### If you have two URLs
 
-paste-two.mp4
+
+https://github.com/marsgazer/curious-help/assets/101140007/a9362db0-061e-4f9e-96a4-2f2116d49682
+
+
 
 ### Copy and Paste instead of Drag-and-Drop
 
@@ -28,17 +33,25 @@ Just like you can drag-and-drop a thumbnail image, you can copy-and-paste the ad
 and if you select "Paste & Go (Both Panes)", `x3dview` will try to find the other image and show you a stereo pair.
 
 
-copy-paste.mp4
+https://github.com/marsgazer/curious-help/assets/101140007/c2d00867-363d-4d34-ba5d-5c0b0840caff
+
 
 
 ## Making a stereo pair from any other source (e.g. the Opportunity rover)
 
-opportunity.mp4
+
+https://github.com/marsgazer/curious-help/assets/101140007/fe41a643-d2c3-49a1-a416-9d1cb211e53c
+
+
 
 ## How do I find an artifact?
 
 The Martian nature _loves_ right angles, parallel lines, and bizarre shapes.
 It is relatively easy to find something that looks strange.
 
-find-anomaly.mp4
+
+
+https://github.com/marsgazer/curious-help/assets/101140007/a235bccf-6ad1-4a67-bba5-b06a538672fa
+
+
 
