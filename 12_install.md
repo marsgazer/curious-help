@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Install/Run
+title: Run/Install
 #permalink: /about/
 ---
 
 
-# Install and/or run
 
 Note that `x3dview` does not need installation. It can run from any directory (any folder, if you prefer this parlance).
 It does not use any directories, hidden or not, to  store any data. No cache directory. No garbage on the hard disk.
 
 It does not assume that your hard disk is infinite. You can install Ubuntu on a 32G USB stick and run `x3dview` from it.
+
+But you will need Java, and Java is about 200MB to download.
 
 ## Make sure you have Java
 
@@ -39,7 +40,9 @@ java -version
 ```
 from the command line. You must see a message telling you the version of Java, and that version must be at least 8. (Well, 1.8 is the same as 8[^sver].)
 
-Download x3dview.zip, open the archive, and unpack the file x3dview.jar to some directory.
+Download x3dview.zip, from the latest [release](https://github.com/martianch/curieux/releases), open the archive,
+navigate to the `lib` subdirectory of the archive, and unpack the file `x3dview.jar` to some directory
+(probably you are more used to the word _folder,_ a directory is a folder).
 
 In the command line, go to that directory and run
 ```
@@ -47,22 +50,24 @@ java -jar x3dview.jar
 ```
 You will see some messages, and then a window will open with two similar but different images.
 
-Video (no sound): download and run `x3dview` without installing
+Video (no sound): download and run `x3dview` without installing.
+(Create some folder, go to the [releases](https://github.com/martianch/curieux/releases) page, find the latest release,
+download `x3dview.zip`, open the archive, navigate to the `x3dview/lib` subfolder in the archive, unpack `x3dview.jar` to
+the "some folder" mentioned earlier, navigate to that folder in the command line terminal, run `java -jar x3dview.jar`).
 
-<!--
-https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef
--->
 
 <div class="embed-container">
   <iframe
       src="https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef"
-      width="700"
-      height="480"
+      width="840"
+      height="525"
       frameborder="0"
       allowfullscreen="true">
   </iframe>
 </div>
-
+<div style="color:transparent">
+https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef
+</div>
 
 ## Run from the source without installation
 
