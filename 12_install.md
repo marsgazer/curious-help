@@ -234,12 +234,11 @@ You may prefer to change the icon of the shortcut, and/or move the shortcut to t
 -------------------
 
 [^cmdl]: "Command line", also known as "Command Prompt", "Console", or "Terminal" is a very old way of interacting with a computer.
-    This program behaves like an electric typewriter attached to a (very old) computer. It lets you type in text by pressing keys,
+    "Command line" is a program that behaves like an electric typewriter attached to a (very old) computer. It lets you type in text by pressing keys,
     and lets you see what the computer prints. You type in a command, press "Enter" (a.k.a. "Return"), and the computer executes
-    your command. If you press Control+C, the computer will _Cancel_ what it is doing (yes, "Cancel", not "Copy", stop doing without
-    caring to complete).
+    your command. If you press Control+C, the computer will _Cancel_ what it is doing (yes, "Cancel", not "Copy", stop doing without completion).
 
-[^sver]: There is "Semantic Versioning", an approach to giving version numbers to software. According to Semantic Versioning, you
+[^sver]: There is "Semantic Versioning", an evil approach to giving version numbers to software. According to Semantic Versioning, you
     increment the leftmost number when you break the existing API. If you cannot allow yourself to break the existing API and
     thus cause problems for your customers, you cannot change the leftmost number. But from the marketing perspective, you have to
     increment that number each time you add new features, so they advertised 1.2 as 2 and 1.5 as 5. Afer that they could not increment
