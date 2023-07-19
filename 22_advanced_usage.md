@@ -26,9 +26,7 @@ You must select "Paste & Go (Both Panes)" in the menu.
       allowfullscreen="true">
   </iframe>
 </div>
-<div style="color:transparent">
 https://github.com/marsgazer/curious-help/assets/101140007/992c841d-3958-4e6e-af9d-5a4b391b1437
-</div>
 
 
 ### Open a stereo pair if you have two image URLs
@@ -46,9 +44,7 @@ The video also shows how to zoom the images and adjust offsets.
       allowfullscreen="true">
   </iframe>
 </div>
-<div style="color:transparent">
 https://github.com/marsgazer/curious-help/assets/101140007/a9362db0-061e-4f9e-96a4-2f2116d49682
-</div>
 
 
 
@@ -69,9 +65,7 @@ and if you select "Paste & Go (Both Panes)", `x3dview` will try to find the othe
       allowfullscreen="true">
   </iframe>
 </div>
-<div style="color:transparent">
 https://github.com/marsgazer/curious-help/assets/101140007/c2d00867-363d-4d34-ba5d-5c0b0840caff
-</div>
 
 
 
@@ -92,9 +86,7 @@ choosing "Paste & Go (This Pane)" in the menu. Note that the right image goes to
       allowfullscreen="true">
   </iframe>
 </div>
-<div style="color:transparent">
 https://github.com/marsgazer/curious-help/assets/101140007/fe41a643-d2c3-49a1-a416-9d1cb211e53c
-</div>
 
 
 
@@ -116,9 +108,7 @@ Strange objects tend to be located on hillsides, this is why we choose the photo
       allowfullscreen="true">
   </iframe>
 </div>
-<div style="color:transparent">
 https://github.com/marsgazer/curious-help/assets/101140007/a235bccf-6ad1-4a67-bba5-b06a538672fa
-</div>
 
 
 ## Hyperstereo
@@ -144,6 +134,15 @@ If these points are too close, there will be no depth, and if they are too far, 
 
 
 
+<div class="embed-container">
+  <iframe
+      src="https://github.com/marsgazer/curious-help/assets/101140007/19853f96-0eda-4c0f-8367-6ad02eebb0d5"
+      width="800"
+      height="600"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
 https://github.com/marsgazer/curious-help/assets/101140007/19853f96-0eda-4c0f-8367-6ad02eebb0d5
 
 
