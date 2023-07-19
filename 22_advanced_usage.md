@@ -108,9 +108,11 @@ Strange objects tend to be located on hillsides, this is why we choose the photo
       allowfullscreen="true">
   </iframe>
 </div>
+<div style="color:transparent">
 
 https://github.com/marsgazer/curious-help/assets/101140007/a235bccf-6ad1-4a67-bba5-b06a538672fa
 
+</div>
 
 ## Hyperstereo
 
