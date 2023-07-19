@@ -30,7 +30,9 @@ Drag an image thumbnail from the browser's window, and drop it onto the x3dview 
   </iframe>
 </div>
 <div style="color:transparent">
+  
 https://github.com/marsgazer/curious-help/assets/101140007/897ca300-ca1d-43f9-9d98-787f06f0218f
+
 </div>
 
 Note: if you click the links on the help page, they will open in the default browser.
@@ -74,7 +76,9 @@ You can adjust offsets using either red or green marks.
   </iframe>
 </div>
 <div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/7c7f6c93-1cb8-4afa-a7c0-26e8f3feebcf
+
 </div>
 
 
@@ -92,7 +96,9 @@ https://github.com/marsgazer/curious-help/assets/101140007/7c7f6c93-1cb8-4afa-a7
   </iframe>
 </div>
 <div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/b205f276-83df-4cf5-a23b-f4180db96020
+
 </div>
 
 
