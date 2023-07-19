@@ -10,7 +10,7 @@ title: Use(2)
 
 ## Navigation via URL Copy/Paste
 
-### Open a stereo pair if you have only one image URL
+### How to open a stereo pair if you have only one image URL
 
 If you have an URL of only one image, `x3dview` will try to find the other image, so that you will see a stereo pair.
 The automatic search is file name-based.
@@ -29,7 +29,7 @@ You must select "Paste & Go (Both Panes)" in the menu.
 https://github.com/marsgazer/curious-help/assets/101140007/992c841d-3958-4e6e-af9d-5a4b391b1437
 
 
-### Open a stereo pair if you have two image URLs
+### How to open a stereo pair if you have two image URLs
 
 Just copy both URLs and select "Paste & Go (Both Panes)" in the menu.
 
@@ -109,6 +109,8 @@ The Martian nature _loves_ right angles, parallel lines, and bizarre shapes.
 It is relatively easy to find something that looks strange.
 
 Strange objects tend to be located on hillsides, this is why we choose the photo of a hillside in the next video.
+
+(The colorful image is just a desktop background and is not related to anything)
 
 <div class="embed-container">
   <iframe
