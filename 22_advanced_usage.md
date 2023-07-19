@@ -108,6 +108,7 @@ Strange objects tend to be located on hillsides, this is why we choose the photo
       allowfullscreen="true">
   </iframe>
 </div>
+
 https://github.com/marsgazer/curious-help/assets/101140007/a235bccf-6ad1-4a67-bba5-b06a538672fa
 
 
@@ -143,6 +144,7 @@ If these points are too close, there will be no depth, and if they are too far, 
       allowfullscreen="true">
   </iframe>
 </div>
+
 https://github.com/marsgazer/curious-help/assets/101140007/19853f96-0eda-4c0f-8367-6ad02eebb0d5
 
 
