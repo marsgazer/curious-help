@@ -26,7 +26,11 @@ You must select "Paste & Go (Both Panes)" in the menu.
       allowfullscreen="true">
   </iframe>
 </div>
+<div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/992c841d-3958-4e6e-af9d-5a4b391b1437
+
+</div>
 
 
 ### How to open a stereo pair if you have two image URLs
