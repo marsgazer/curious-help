@@ -66,7 +66,9 @@ the "some folder" mentioned earlier, navigate to that folder in the command line
   </iframe>
 </div>
 <div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/19118ffc-8f46-4214-a1f7-b305f0a79bef
+
 </div>
 
 ## Run from the source without installation
