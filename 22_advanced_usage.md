@@ -44,8 +44,11 @@ The video also shows how to zoom the images and adjust offsets.
       allowfullscreen="true">
   </iframe>
 </div>
+<div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/a9362db0-061e-4f9e-96a4-2f2116d49682
 
+</div>
 
 
 
@@ -65,8 +68,12 @@ and if you select "Paste & Go (Both Panes)", `x3dview` will try to find the othe
       allowfullscreen="true">
   </iframe>
 </div>
+
+<div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/c2d00867-363d-4d34-ba5d-5c0b0840caff
 
+</div>
 
 
 
@@ -86,8 +93,12 @@ choosing "Paste & Go (This Pane)" in the menu. Note that the right image goes to
       allowfullscreen="true">
   </iframe>
 </div>
+
+<div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/fe41a643-d2c3-49a1-a416-9d1cb211e53c
 
+</div>
 
 
 
@@ -147,8 +158,11 @@ If these points are too close, there will be no depth, and if they are too far, 
   </iframe>
 </div>
 
+<div style="color:transparent">
+
 https://github.com/marsgazer/curious-help/assets/101140007/19853f96-0eda-4c0f-8367-6ad02eebb0d5
 
+</div>
 
 
 
