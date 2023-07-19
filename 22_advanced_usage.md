@@ -121,6 +121,29 @@ https://github.com/marsgazer/curious-help/assets/101140007/a235bccf-6ad1-4a67-bb
 </div>
 
 
+## Hyperstereo
+
+Hyperstereo is stereo taken from two distant points, probably at different moments in time.
+
+Why "hyper"? To make a stereo image, you need two cameras, and the separation distance between the two cameras is called the stereo base.
+When the stereo base is zero, this is no stereo.
+When the stereo base is extraordinarily large, this is hyperstereo.
+
+Wikipedia writes about [hyperstereo](https://en.wikipedia.org/wiki/Stereo_photography_techniques#Longer_base_line_for_distant_objects_%E2%80%93_%22Hyper_Stereo%22):
+"If a stereo picture is taken of a large, distant object such as a mountain or a large building using a normal base it will appear to be flat. ...
+For making stereo images featuring only a distant object (e.g., a mountain with foothills), the camera positions can be separated by a larger distance...
+There are two main ways to accomplish this. One is to use two cameras separated by the required distance,
+the other is to shift a single camera the required distance between shots."
+
+"A common rule of thumb is the 1:30 rule. This means that the baseline will be equal to 1/30 of the distance to the nearest object included in the photograph."
+
+This means that to make a hyperstereo image we need photos taken from two different points, not too far and not too close.
+If these points are too close, there will be no depth, and if they are too far, it will be no good either, because your human brain will not combine the images.
+
+`x3dview` supports making hyperstereo pairs by letting you adjust vertical and horizontal offsets, zoom factor, and rotation angle.
+
+
+
 
 
 
